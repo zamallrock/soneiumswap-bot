@@ -1,4 +1,4 @@
-# SoneiumSwap Bot
+# SoneiumSwap Bot 🤖
 
 A simple auto-swap bot for the Soneium network, automatically swapping between WETH and SONUS tokens with balance tracking and PnL estimation.
 
