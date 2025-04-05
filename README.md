@@ -53,3 +53,5 @@ soneiumswap-bot/
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![CI/CD](https://github.com/zamallrockk/soneiumswap-bot/actions/workflows/python-ci.yml/badge.svg)
 
+Created by [zamallrock](https://github.com/zamallrockk)
+
