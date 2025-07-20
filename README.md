@@ -13,7 +13,7 @@ A simple auto-swap bot for the Soneium network, automatically swapping between W
 ## Usage
 ### Clone the repository
 ```bash
-git clone https://github.com/zamallrockk/soneiumswap-bot.git
+git clone https://github.com/zamallrock/soneiumswap-bot.git
 cd soneiumswap-bot
 ```
 ### Prerequisites
