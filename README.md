@@ -52,5 +52,5 @@ soneiumswap-bot/
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-Created by [zamallrock](https://github.com/zamallrockk)
+Created by [zamallrock](https://github.com/zamallrock)
 
